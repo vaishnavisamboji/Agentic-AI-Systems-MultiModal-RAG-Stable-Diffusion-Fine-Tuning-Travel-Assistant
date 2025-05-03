@@ -1,5 +1,8 @@
 # DATA 266 - Lab 2 - Team 2
 
+Due to file size issue in github. I've uploaded stable diffusion weights in google drive. please find those in the below link.
+https://drive.google.com/drive/folders/1c81-djby0-gZxd0g1WupHQ9Kl9NM47mv?usp=sharing
+
 This repository contains the code, documentation, and outputs for Lab 2 of the DATA 266 course, completed by Team 2. The lab involved implementing three tasks:
 
 1.  A MultiModal Retrieval-Augmented Generation (RAG) System
