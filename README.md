@@ -1,6 +1,6 @@
 # DATA 266 - Lab 2 - Team 2
 
-This repository contains the code, documentation (report), and outputs for Lab 2 of the DATA 266 course, completed by Team 2. The lab involved implementing three distinct AI/ML tasks:
+This repository contains the code, documentation, and outputs for Lab 2 of the DATA 266 course, completed by Team 2. The lab involved implementing three distinct AI/ML tasks:
 
 1.  A MultiModal Retrieval-Augmented Generation (RAG) System
 2.  Fine-Tuning Stable Diffusion using Low-Rank Adaptation (LoRA)
